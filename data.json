@@ -1,0 +1,35 @@
+{
+    "foodItems": [
+        {
+            "name": "Pizza",
+            "texture": "Crunchy",
+            "odor": "Aromatic",
+            "flavor": "Savory",
+            "ingredients": [
+                "Dough",
+                "Tomato sauce",
+                "Cheese",
+                "Toppings"
+            ],
+            "cookingMethods": [
+                "Baking",
+                "Grilling"
+            ]
+        },
+        {
+            "name": "Sushi",
+            "texture": "Soft and Chewy",
+            "odor": "Fresh",
+            "flavor": "Umami",
+            "ingredients": [
+                "Sushi rice",
+                "Fish",
+                "Seaweed",
+                "Vegetables"
+            ],
+            "cookingMethods": [
+                "Rolling"
+            ]
+        }
+    ]
+}
